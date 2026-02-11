@@ -35,7 +35,7 @@ You need to follow the output format strictly, Nothing else should come after th
 Example Output:
 {"itemName": "Pizza", "ingredients": ["Flour", "Tomato Sauce", "Cheese", "Olive Oil", "Yeast", "Salt"]}
 {"itemName": "Caesar Salad", "ingredients": ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing", "Lemon Juice", "Olive Oil", "Garlic"]}
-{"itemName": "Not a food item", "ingredients":}
+{"itemName": "Not a food item.", "ingredients":}
 
 """
 
