@@ -9,7 +9,7 @@ Ingredients: {"itemName": "Paneer 65", "ingredients": ["Paneer (Indian cottage c
 
 or
 
-{"itemName": "Not a food item", "ingredients":}
+{"itemName": "Not a food item..", "ingredients":}
 """
 
 # Configure Gemini API
